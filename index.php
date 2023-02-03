@@ -9,6 +9,11 @@
     <title>Chatter</title>
 </head>
 <body>
+    <div class="wrapper">
+        <section class="form signup">
+            <header>Chatter</header>
+        </section>
+    </div>
     
 </body>
 </html>
