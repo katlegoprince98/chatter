@@ -50,5 +50,13 @@ body{
     display: flex;
     flex-direction: column;
     margin-bottom: 10px;
+    color: #791f94;
    
+}
+.form form .input input{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #532a5f;
+    background-color: inherit;
+    color: white;
 }
