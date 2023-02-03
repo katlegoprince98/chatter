@@ -6,3 +6,17 @@
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
 }
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #2f045f;
+}
+.wrapper{
+    background-color: #410488;
+    width: 450px;
+    box-shadow: 0 0 128px 0 rgba(0, 0, 0, 0),
+                 0 32px 64px -48px  rgba(0, 0, 0, 0.5);
+                 border-radius: 20px;
+}
