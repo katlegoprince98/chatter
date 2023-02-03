@@ -46,6 +46,9 @@
                     </div>
                 </div>
             </form>
+            <div class="link">
+                already have an account? <a href="">Login now</a>
+            </div>
         </section>
     </div>
     
